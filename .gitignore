@@ -6,3 +6,6 @@ config_file/
 models/
 *.pyc
 *.swp
+dist/
+build/
+video2bvh.egg-info
