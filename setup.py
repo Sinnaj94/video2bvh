@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='video2bvh',
-    version='0.1',
+    version='0.2',
     author='KevinLTT',
     description='Extract motion capturing data from RGB videos',
     long_description=long_description,
