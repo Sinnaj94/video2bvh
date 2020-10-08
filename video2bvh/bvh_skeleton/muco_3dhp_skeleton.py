@@ -245,7 +245,7 @@ class Muco3DHPSkeleton(object):
                     stack.append(child)
         return channel
 
-    def poses2bvh(self, poses3d, header=None, output_file=None, frame_rate=24):
+    def poses2bvh(self, poses3d, header=None, output_file=None, frame_rate=25):
         if not header:
             header = self.get_bvh_header(poses3d)
 
