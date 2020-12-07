@@ -87,7 +87,7 @@ class Muco3DHPSkeleton(object):
             'LeftShoulder': [1, 0, 0],
             'LeftElbow': [1, 0, 0],
             'LeftWrist': [1, 0, 0],
-            'LeftHandEndSite': [-1, 0, 0],
+            'LeftHandEndSite': [1, 0, 0],
             'RightShoulder': [-1, 0, 0],
             'RightElbow': [-1, 0, 0],
             'RightWrist': [-1, 0, 0],
